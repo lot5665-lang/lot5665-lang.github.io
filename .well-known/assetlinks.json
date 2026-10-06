@@ -1,0 +1,13 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.lot5665_lang.twa",
+      "sha256_cert_fingerprints": [
+        "70:7D:35:20:1B:C2:58:C4:19:BA:7A:E8:EF:01:07:1C:A4:50:B8:54:6C:EC:A2:40:44:EB:62:30:55:4A:BA:E7",
+        "E5:3C:40:42:6E:C5:C3:3B:F8:E3:5A:2C:8C:8B:0C:55:CF:2D:97:23:F5:D2:21:40:3C:E7:F3:F5:22:5F:9D:AA"
+      ]
+    }
+  }
+]
